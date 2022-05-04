@@ -1,2 +1,3 @@
-*.RData
-**/.ipynb_checkpoints
+.ipynb_checkpoints
+data/Asset_Pricing_HW_2_data.RData
+**/.RData/
