@@ -6,7 +6,7 @@ A simple repository for the second 2021/22 Asset Pricing home assignment.
 ### How to run:
 
 #### Option 1:
-1. Clone the folder into your computer (using `https://github.com/PetrCala/AP_HW2.git`).
+1. Clone the folder into your computer (using `git clone https://github.com/PetrCala/AP_HW2.git`).
 2. Into the `data/` folder, add a file called `Asset_pricing_Hw_2_data.RData`, which can be downloaded through Moodle.
 
 #### Option 2:
